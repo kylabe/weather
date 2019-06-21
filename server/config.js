@@ -12,8 +12,9 @@ module.exports = {
       latitude: 'lat',
       longitude: 'lon',
     },
-    zipcode: 'zip',
+    zipcode: 79760,
   },
 
-  APIkey: '<Your-API-key>',
+  APIkey: fc71815cdd561507f01aa1fcbc2dcf6d
+,
 };
